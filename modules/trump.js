@@ -23,7 +23,6 @@ dict.set("kick", "We got some BAD HOMBRES. OUT, OUT, OUT!");
 dict.set("lightbulb", "The boob job is terrible. They look like two lightbulbs coming out of her body.");
 dict.set("marco", "Don't worry about it, Little Marco.");
 dict.set("mexico", ["When are we going to beat Mexico at the border? They're laughing at us.", "They're bringing drugs. They're bringing crime. They're rapists..."]);
-dict.set("money", "Black guys counting my money! I hate it. The only kind of people I want counting my money are little short guys that wear yarmulkes every day.");
 dict.set("muslim", "Donald J. Trump is calling for a total and complete shutdown of Muslims entering the United States until our country's representatives can figure out what the hell is going on.");
 dict.set("rug", "I don’t wear a ‘rug’—it’s mine. And I promise not to talk about your massive plastic surgeries that didn’t work.");
 dict.set("sad", "SAD!");
