@@ -37,7 +37,6 @@ dict.set("Bible", "He walks in with the bible high, he puts it down, and then he
 dict.set(["IQ", "smart", "stupid"], "My IQ is one of the highest- and you all know it!");
 dict.set(["global", "globalism"], "We will no longer surrender this country to the false song of globalism");
 dict.set(["carson","doctor","sleepy"], "The sleepy doctor has awoken!");
-dict.set(["press","media"], "The press used to think that I was really this horrible, flame throwing, terrible tyrant. Right? ");
 dict.set("anal", "No, I'm not into anal.");
 dict.set(["birth", "certificate"], "There is something on that birth certificate- or, he may not have one");
 dict.set("asian", "Bing bing. bong bong. bing bing bing");
